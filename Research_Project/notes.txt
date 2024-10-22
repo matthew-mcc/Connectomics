@@ -1,0 +1,1 @@
+python download_abide_preproc.py -d rois_cc400 -p ccs -s nofilt_global
