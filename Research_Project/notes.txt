@@ -1,1 +1,3 @@
 python download_abide_preproc.py -d rois_cc400 -p ccs -s nofilt_global
+
+python download_abide_preproc.py -d rois_cc400 -p ccs -s nofilt_noglobal -o /Data/PITT -t PITT
